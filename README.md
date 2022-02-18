@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Odedina Babatunde</h1>
-<h3 align="center">A vehement frontend developer from Lagos, Nigeria</h3>
+<h3 align="center">A vehement Software developer from Lagos, Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=babatunde-odedina&label=Profile%20views&color=0e75b6&style=flat" alt="babatunde-odedina" /> </p>
 
